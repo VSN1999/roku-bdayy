@@ -1,0 +1,40 @@
+body {
+    margin: 0px;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 0px;
+    font-size:xx-large;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Tangerine', cursive;
+}
+
+h2 {
+    margin-top: 0px;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Tangerine', cursive;
+}
+
+div {
+    background-color: #112D4E;
+}
+
+.sun-image{
+    position: absolute;
+    left: 40px;
+}
+
+.heading-introduction {
+    padding: 50px;
+    color: #F9F7F7;
+}
+
+.bottom-cloud {
+    position: absolute;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+}
